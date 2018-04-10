@@ -1,2 +1,2 @@
 # ChessGame
-OO Chess Game implemented in c++
+Chess Game implemented in c++
